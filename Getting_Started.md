@@ -10,12 +10,9 @@
 
 ## Junior Programmers
 
-### Requirement
-
 * Linux should be your OS ( Ubuntu 14.04 LTS)
 * You already know how to use git
-
-* Install Rust
+* [Install Rust](http://www.rust-lang.org)
 * Jump start with [converting your VIM installation as your IDE](https://github.com/ivanceras/rustupefy)
 * If vim is too hard for you, you can alternatively [Atom editor](https://atom.io)
 * [Make a github account](https://github.com)
@@ -25,11 +22,8 @@
 
 ## Senior Programmers
 
-### Requirement
 * Linux OS (use whatever distro you like )
 * PostgreSQL
-
-
 * [Install multirust](https://github.com/brson/multirust)
 * Try to compile and run [servo browser](https://github.com/servo/servo)
 
