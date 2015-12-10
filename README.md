@@ -1,5 +1,7 @@
 # Transparent PH Initiative
 
+[![Join the chat at https://gitter.im/transparent-ph/transparent-ph-initiative](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/transparent-ph/transparent-ph-initiative?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An initiative to implement a fully transparent and opensource governance of the Republic of the Philippines.
 
 
